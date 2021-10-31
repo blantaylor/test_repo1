@@ -7,10 +7,10 @@ package com.mycompany.testproject;
 
 /**
  *
- * @author 200398230
+ * @author Blan Taylor
  */
 public class Hello {
     public static void main (String[] args) {
-        System.out.println("Hello, Blan!");
+        System.out.println("Hello, Blan! How are you today?");
     }
 }
